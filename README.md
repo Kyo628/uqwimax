@@ -1,5 +1,7 @@
 # uqwimax
-Speed Wi-Fi HOME 5G X11ブリッジモード、クレードル（openwrtメインルータ）
+Speed Wi-Fi HOME 5G X11
+ブリッジモード、クレードル（openwrtメインルータ）
+
 プロファイル（グローバルIP + IPv6）
 設定内容	WiMAX +5G
 プロファイル名（任意）	（例）Global5G
