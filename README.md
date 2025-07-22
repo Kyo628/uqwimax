@@ -13,3 +13,5 @@ IPタイプ	IPv4＋IPv6
 
 ルーター側
 LuCI openwrt-24.10 branch (25.168.50434~d6b13f6) / OpenWrt 24.10.2 (r28739-d9340319c6)
+アンドロイド系デバイス互換性OK✅（Chromecast、Google TVなど）
+詳しくはnetwork、dhcpを参照
